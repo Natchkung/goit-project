@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BCTECH</string>
+    <string name="title_activity_main">BCTECH</string>
+    <string name="package_name">com.kmutnb.goit_proj</string>
+    <string name="custom_url_scheme">com.kmutnb.goit_proj</string>
+</resources>

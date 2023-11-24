@@ -1,0 +1,51 @@
+Users =>
+{   
+    "fnamelname": "test1 test2"
+    "mail": "test@gmail.com",
+    "phonenumber": "0902974175"
+    "username": "test",
+    "password": "123",
+    "money": 300,
+    "point": 0,
+    "avatar": "noavatar.jpg"
+}
+
+Categories =>
+{
+    catename: 'Book'
+}
+
+Inventoies =>
+
+{
+    "username": "test",
+    "itemid": 100000000,
+    "itemname": "Keyboard",
+    "itemdetail": "detailKeyboard",
+    "itemstatus": 5.0,
+    "itemcounts": 1,
+    "itemprice": 0,
+    "city": "Bangkok",
+    "location": "BangKok location",
+    "image": "noimage.jpg"
+
+}
+
+Baskets =>
+{
+    "username": "ggez",
+    "targetname": "test55",
+    "targetid": 4588,
+    "targetcounts": 1,
+    "targetprice": 69
+
+}
+ 
+notifies =>
+{
+    "username": "test"
+    "itemid": 100000000,
+    "alert": "โพสต์",
+    "targetname": "test1"
+    
+}
